@@ -11,7 +11,7 @@ import reflex as rx
 import reflex_webcam as webcam
 
 # Configure the generative AI API
-genai.configure(api_key="YOUR_API_KEY")
+genai.configure(api_key="AIzaSyCasxpYtiSqL6Mbe9uMa5Q0eYR3p5MZNCQ")
 model = genai.GenerativeModel('gemini-pro-vision')
 
 # Identifies a particular webcam component in the DOM
